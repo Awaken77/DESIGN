@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Wzorce projektowe\MVC teoria\MVC teoria\bin\Debug\netcoreapp3.1\MVC teoria.exe
+C:\Users\USER\Desktop\Wzorce projektowe\MVC teoria\MVC teoria\bin\Debug\netcoreapp3.1\MVC teoria.deps.json
+C:\Users\USER\Desktop\Wzorce projektowe\MVC teoria\MVC teoria\bin\Debug\netcoreapp3.1\MVC teoria.runtimeconfig.json
+C:\Users\USER\Desktop\Wzorce projektowe\MVC teoria\MVC teoria\bin\Debug\netcoreapp3.1\MVC teoria.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Wzorce projektowe\MVC teoria\MVC teoria\bin\Debug\netcoreapp3.1\MVC teoria.dll
+C:\Users\USER\Desktop\Wzorce projektowe\MVC teoria\MVC teoria\bin\Debug\netcoreapp3.1\MVC teoria.pdb
+C:\Users\USER\Desktop\Wzorce projektowe\MVC teoria\MVC teoria\obj\Debug\netcoreapp3.1\MVC teoria.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Wzorce projektowe\MVC teoria\MVC teoria\obj\Debug\netcoreapp3.1\MVC teoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Wzorce projektowe\MVC teoria\MVC teoria\obj\Debug\netcoreapp3.1\MVC teoria.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Wzorce projektowe\MVC teoria\MVC teoria\obj\Debug\netcoreapp3.1\MVC teoria.AssemblyInfo.cs
+C:\Users\USER\Desktop\Wzorce projektowe\MVC teoria\MVC teoria\obj\Debug\netcoreapp3.1\MVC teoria.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Wzorce projektowe\MVC teoria\MVC teoria\obj\Debug\netcoreapp3.1\MVC teoria.dll
+C:\Users\USER\Desktop\Wzorce projektowe\MVC teoria\MVC teoria\obj\Debug\netcoreapp3.1\MVC teoria.pdb
+C:\Users\USER\Desktop\Wzorce projektowe\MVC teoria\MVC teoria\obj\Debug\netcoreapp3.1\MVC teoria.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Wzorce projektowe\Obserwator\Obserwator\bin\Debug\net5.0\Obserwator.exe
+C:\Users\USER\Desktop\Wzorce projektowe\Obserwator\Obserwator\bin\Debug\net5.0\Obserwator.deps.json
+C:\Users\USER\Desktop\Wzorce projektowe\Obserwator\Obserwator\bin\Debug\net5.0\Obserwator.runtimeconfig.json
+C:\Users\USER\Desktop\Wzorce projektowe\Obserwator\Obserwator\bin\Debug\net5.0\Obserwator.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Wzorce projektowe\Obserwator\Obserwator\bin\Debug\net5.0\Obserwator.dll
+C:\Users\USER\Desktop\Wzorce projektowe\Obserwator\Obserwator\bin\Debug\net5.0\ref\Obserwator.dll
+C:\Users\USER\Desktop\Wzorce projektowe\Obserwator\Obserwator\bin\Debug\net5.0\Obserwator.pdb
+C:\Users\USER\Desktop\Wzorce projektowe\Obserwator\Obserwator\obj\Debug\net5.0\Obserwator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Wzorce projektowe\Obserwator\Obserwator\obj\Debug\net5.0\Obserwator.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Wzorce projektowe\Obserwator\Obserwator\obj\Debug\net5.0\Obserwator.AssemblyInfo.cs
+C:\Users\USER\Desktop\Wzorce projektowe\Obserwator\Obserwator\obj\Debug\net5.0\Obserwator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Wzorce projektowe\Obserwator\Obserwator\obj\Debug\net5.0\Obserwator.dll
+C:\Users\USER\Desktop\Wzorce projektowe\Obserwator\Obserwator\obj\Debug\net5.0\ref\Obserwator.dll
+C:\Users\USER\Desktop\Wzorce projektowe\Obserwator\Obserwator\obj\Debug\net5.0\Obserwator.pdb
+C:\Users\USER\Desktop\Wzorce projektowe\Obserwator\Obserwator\obj\Debug\net5.0\Obserwator.genruntimeconfig.cache
