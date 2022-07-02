@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka\Fabryka\bin\Debug\net5.0\Fabryka.exe
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka\Fabryka\bin\Debug\net5.0\Fabryka.deps.json
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka\Fabryka\bin\Debug\net5.0\Fabryka.runtimeconfig.json
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka\Fabryka\bin\Debug\net5.0\Fabryka.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka\Fabryka\bin\Debug\net5.0\Fabryka.dll
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka\Fabryka\bin\Debug\net5.0\ref\Fabryka.dll
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka\Fabryka\bin\Debug\net5.0\Fabryka.pdb
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka\Fabryka\obj\Debug\net5.0\Fabryka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka\Fabryka\obj\Debug\net5.0\Fabryka.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka\Fabryka\obj\Debug\net5.0\Fabryka.AssemblyInfo.cs
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka\Fabryka\obj\Debug\net5.0\Fabryka.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka\Fabryka\obj\Debug\net5.0\Fabryka.dll
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka\Fabryka\obj\Debug\net5.0\ref\Fabryka.dll
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka\Fabryka\obj\Debug\net5.0\Fabryka.pdb
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka\Fabryka\obj\Debug\net5.0\Fabryka.genruntimeconfig.cache
