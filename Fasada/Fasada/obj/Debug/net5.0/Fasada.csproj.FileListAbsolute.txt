@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Wzorce projektowe\Fasada\Fasada\bin\Debug\net5.0\Fasada.exe
+C:\Users\USER\Desktop\Wzorce projektowe\Fasada\Fasada\bin\Debug\net5.0\Fasada.deps.json
+C:\Users\USER\Desktop\Wzorce projektowe\Fasada\Fasada\bin\Debug\net5.0\Fasada.runtimeconfig.json
+C:\Users\USER\Desktop\Wzorce projektowe\Fasada\Fasada\bin\Debug\net5.0\Fasada.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Wzorce projektowe\Fasada\Fasada\bin\Debug\net5.0\Fasada.dll
+C:\Users\USER\Desktop\Wzorce projektowe\Fasada\Fasada\bin\Debug\net5.0\ref\Fasada.dll
+C:\Users\USER\Desktop\Wzorce projektowe\Fasada\Fasada\bin\Debug\net5.0\Fasada.pdb
+C:\Users\USER\Desktop\Wzorce projektowe\Fasada\Fasada\obj\Debug\net5.0\Fasada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Wzorce projektowe\Fasada\Fasada\obj\Debug\net5.0\Fasada.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Wzorce projektowe\Fasada\Fasada\obj\Debug\net5.0\Fasada.AssemblyInfo.cs
+C:\Users\USER\Desktop\Wzorce projektowe\Fasada\Fasada\obj\Debug\net5.0\Fasada.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Wzorce projektowe\Fasada\Fasada\obj\Debug\net5.0\Fasada.dll
+C:\Users\USER\Desktop\Wzorce projektowe\Fasada\Fasada\obj\Debug\net5.0\ref\Fasada.dll
+C:\Users\USER\Desktop\Wzorce projektowe\Fasada\Fasada\obj\Debug\net5.0\Fasada.pdb
+C:\Users\USER\Desktop\Wzorce projektowe\Fasada\Fasada\obj\Debug\net5.0\Fasada.genruntimeconfig.cache
+C:\Users\USER\Desktop\Wzorce projektowe\Fasada\Fasada\obj\Debug\net5.0\Fasada.csproj.AssemblyReference.cache

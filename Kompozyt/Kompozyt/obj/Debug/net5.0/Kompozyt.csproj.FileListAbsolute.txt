@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Wzorce projektowe\Kompozyt\Kompozyt\bin\Debug\net5.0\Kompozyt.exe
+C:\Users\USER\Desktop\Wzorce projektowe\Kompozyt\Kompozyt\bin\Debug\net5.0\Kompozyt.deps.json
+C:\Users\USER\Desktop\Wzorce projektowe\Kompozyt\Kompozyt\bin\Debug\net5.0\Kompozyt.runtimeconfig.json
+C:\Users\USER\Desktop\Wzorce projektowe\Kompozyt\Kompozyt\bin\Debug\net5.0\Kompozyt.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Wzorce projektowe\Kompozyt\Kompozyt\bin\Debug\net5.0\Kompozyt.dll
+C:\Users\USER\Desktop\Wzorce projektowe\Kompozyt\Kompozyt\bin\Debug\net5.0\ref\Kompozyt.dll
+C:\Users\USER\Desktop\Wzorce projektowe\Kompozyt\Kompozyt\bin\Debug\net5.0\Kompozyt.pdb
+C:\Users\USER\Desktop\Wzorce projektowe\Kompozyt\Kompozyt\obj\Debug\net5.0\Kompozyt.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Wzorce projektowe\Kompozyt\Kompozyt\obj\Debug\net5.0\Kompozyt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Wzorce projektowe\Kompozyt\Kompozyt\obj\Debug\net5.0\Kompozyt.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Wzorce projektowe\Kompozyt\Kompozyt\obj\Debug\net5.0\Kompozyt.AssemblyInfo.cs
+C:\Users\USER\Desktop\Wzorce projektowe\Kompozyt\Kompozyt\obj\Debug\net5.0\Kompozyt.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Wzorce projektowe\Kompozyt\Kompozyt\obj\Debug\net5.0\Kompozyt.dll
+C:\Users\USER\Desktop\Wzorce projektowe\Kompozyt\Kompozyt\obj\Debug\net5.0\ref\Kompozyt.dll
+C:\Users\USER\Desktop\Wzorce projektowe\Kompozyt\Kompozyt\obj\Debug\net5.0\Kompozyt.pdb
+C:\Users\USER\Desktop\Wzorce projektowe\Kompozyt\Kompozyt\obj\Debug\net5.0\Kompozyt.genruntimeconfig.cache
