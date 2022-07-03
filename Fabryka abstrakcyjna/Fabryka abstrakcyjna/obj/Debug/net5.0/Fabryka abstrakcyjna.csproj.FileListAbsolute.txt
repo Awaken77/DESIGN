@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka abstrakcyjna\Fabryka abstrakcyjna\bin\Debug\net5.0\Fabryka abstrakcyjna.exe
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka abstrakcyjna\Fabryka abstrakcyjna\bin\Debug\net5.0\Fabryka abstrakcyjna.deps.json
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka abstrakcyjna\Fabryka abstrakcyjna\bin\Debug\net5.0\Fabryka abstrakcyjna.runtimeconfig.json
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka abstrakcyjna\Fabryka abstrakcyjna\bin\Debug\net5.0\Fabryka abstrakcyjna.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka abstrakcyjna\Fabryka abstrakcyjna\bin\Debug\net5.0\Fabryka abstrakcyjna.dll
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka abstrakcyjna\Fabryka abstrakcyjna\bin\Debug\net5.0\ref\Fabryka abstrakcyjna.dll
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka abstrakcyjna\Fabryka abstrakcyjna\bin\Debug\net5.0\Fabryka abstrakcyjna.pdb
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka abstrakcyjna\Fabryka abstrakcyjna\obj\Debug\net5.0\Fabryka abstrakcyjna.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka abstrakcyjna\Fabryka abstrakcyjna\obj\Debug\net5.0\Fabryka abstrakcyjna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka abstrakcyjna\Fabryka abstrakcyjna\obj\Debug\net5.0\Fabryka abstrakcyjna.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka abstrakcyjna\Fabryka abstrakcyjna\obj\Debug\net5.0\Fabryka abstrakcyjna.AssemblyInfo.cs
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka abstrakcyjna\Fabryka abstrakcyjna\obj\Debug\net5.0\Fabryka abstrakcyjna.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka abstrakcyjna\Fabryka abstrakcyjna\obj\Debug\net5.0\Fabryka abstrakcyjna.dll
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka abstrakcyjna\Fabryka abstrakcyjna\obj\Debug\net5.0\ref\Fabryka abstrakcyjna.dll
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka abstrakcyjna\Fabryka abstrakcyjna\obj\Debug\net5.0\Fabryka abstrakcyjna.pdb
+C:\Users\USER\Desktop\Wzorce projektowe\Fabryka abstrakcyjna\Fabryka abstrakcyjna\obj\Debug\net5.0\Fabryka abstrakcyjna.genruntimeconfig.cache
